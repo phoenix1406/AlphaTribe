@@ -1,4 +1,4 @@
-**Stock Post Management API (MERN Stack)**
+**Stock Post Management API (MERN Stack)** 
 
 This is a backend API built using the MERN stack (MongoDB, Express.js, React, and Node.js) that allows users to create and manage stock-related posts. It supports JWT-based authentication, post creation, commenting, liking, and profile management with image uploads stored as base64-encoded strings.
 
